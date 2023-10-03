@@ -1,0 +1,47 @@
+.title-container {
+    background-color: aliceblue;
+    height: 100%;
+    width: 100%;
+    border-top: 50px solid aliceblue;
+}
+
+h1 {
+    text-align: center;
+    color: skyblue;
+    font-family: 'Sacramento',cursive;
+    font-size: 5rem;
+}
+
+h2 {
+    text-align: center;
+    color: skyblue;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+}
+ span {
+    font-weight: bold;
+    border: 5px solid skyblue;
+    padding: 1px;
+ }
+
+.sample {
+    border-radius: 50%;
+    margin-bottom: 20px;
+    height: 180px;
+    width: 180px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.bottom-container {
+    background-color: #0dcaf0;
+}
+
+hr {
+    color : skyblue;
+    width: 50%;
+    align : center;
+}
